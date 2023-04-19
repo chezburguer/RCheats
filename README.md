@@ -5,18 +5,8 @@
 <p align="center">
   Internal that you will need to install an additional game client.
 </p> 
-
-
-
-<p align="center">
-  <img src="https://img.shields.io/github/languages/top/Serups/Rust-Internal?style=flat-square"/>
-  <img src="https://img.shields.io/github/last-commit/Serups/Rust-Internal?style=flat-square"/>
-  <img src="https://img.shields.io/github/stars/Serups/Rust-Internal?color=5ac18e&label=Stars&style=flat-square"/>
- 
-</p>
-  
 --- 
-## <a id="features"></a>:octagonal_sign: 〢 Features
+## <a id="features"></a>🛑 〢 Features
 
 ### AIMBOT
 - Head , Body , etc
@@ -33,7 +23,7 @@
 
 ---
 
-## <a id="setup2"></a> :notepad_spiral: 〢 Undetected 17/04/23 Patch 1.68.2
+## <a id="setup2"></a> 🗒️  〢 Undetected 17/04/23 Patch 1.68.2
 - **Legit Playing & Waranty & Lifetime | Up To You.**
 
   
