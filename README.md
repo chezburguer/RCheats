@@ -4,7 +4,8 @@
 
 <p align="center">
   Internal that you will need to install an additional game client.
-</p> 
+</p>
+
 --- 
 ## <a id="features"></a>🛑 〢 Features
 
